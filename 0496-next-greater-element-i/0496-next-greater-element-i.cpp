@@ -1,19 +1,30 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        vector <int> ans;
-        for(int i=0;i<nums1.size();i++){
-            auto it = find(nums2.begin(), nums2.end(), nums1[i]);
-            int index = distance(nums2.begin(), it) + 1;
-            while(index < nums2.size()){
-                if(nums1[i]<nums2[index]){
-                    ans.push_back(nums2[index]);
-                    break;
+        vector <int> temp;
+        vector<int> arr(nums1.size(), 0);
+        stack <int> stk;
+        for(int i=nums2.size()-1;i>=0;i--){
+            while(!stk.empty() && stk.top() <= nums2[i]) stk.pop();
+            if(stk.empty()){
+                auto it = find(nums1.begin(), nums1.end(), nums2[i]);
+                if(it!= nums1.end()){
+                    arr[distance(nums1.begin(), it)] = -1;
+                    temp.push_back(-1);
                 }
-                index++;
             }
-            if(index == nums2.size()) ans.push_back(-1);
-        } 
-        return ans;
+            else{
+                temp.push_back(stk.top());
+
+                auto it = find(nums1.begin(), nums1.end(), nums2[i]);
+                if(it!= nums1.end()){
+                    arr[distance(nums1.begin(), it)] = stk.top();
+                    temp.push_back(stk.top());
+                }
+            } 
+            stk.push(nums2[i]);
+        }
+        return arr;
+
     }
 };
