@@ -8,10 +8,15 @@ public:
             total+=i;
         }
         k = k%total;
-        while(k>=chalk[i%n]){
-            k-=chalk[i%n];
-            i++;
+        cout<<k<<endl;
+        int j;
+        for(j = 0;j<n;j++){
+            if(chalk[j]>k){
+                cout<<j;
+                break;
+            }
+            k -= chalk[j];
         }
-        return i%n;
+        return j;
     }
 };
