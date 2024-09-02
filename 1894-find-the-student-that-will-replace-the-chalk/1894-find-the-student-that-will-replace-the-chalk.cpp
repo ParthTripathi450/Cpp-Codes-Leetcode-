@@ -9,14 +9,13 @@ public:
         }
         k = k%total;
         cout<<k<<endl;
-        int j;
-        for(j = 0;j<n;j++){
+        for(int j = 0;j<n;j++){
             if(chalk[j]>k){
                 cout<<j;
-                break;
+                return j;
             }
             k -= chalk[j];
         }
-        return j;
+        return 0;
     }
 };
