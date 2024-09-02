@@ -6,15 +6,17 @@ public:
         stack <int> stk;
         while(i < pushed.size()){
             stk.push(pushed[i]);
+            cout<<"Pushed: ";
             cout<<stk.top()<<endl;
             while(stk.top() == popped[j] ){
                 j++;
+                cout<<"Popped: ";
                 cout<<stk.top()<<endl;
                 stk.pop();
                 cout<<"i: ";
                 cout<<i<<endl;
                 if(stk.empty()){
-                    if(i>=1){
+                    if(i>=pushed.size()-1){
                         return true;
                     }
                     break;
