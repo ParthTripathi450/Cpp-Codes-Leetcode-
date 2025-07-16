@@ -6,53 +6,18 @@ public:
         int maxlen3=1;
         int maxlen4=1;
         //Case1:
-        int i=0;
-        while(i<nums.size()){
-            if(nums[i]%2==0){
-                maxlen1++;
-            }
-            i++;
-        }
-        //case2
-        i=0;
-        while(i<nums.size()){
-            if(nums[i]%2!=0){
+        for(int num:nums){
+            if(num%2==0)maxlen1++;
+            else{
                 maxlen2++;
             }
-            i++;
         }
         //Case3
-        if(nums[0]%2==0){
-            bool checker=false;
-            i=1;
-            while(i<nums.size()){
-                if(checker==false && nums[i]%2!=0){
-                    checker=true;
-                    maxlen3++;
-                }
-                else if(checker==true && nums[i]%2==0){
-                    checker=false;
-                    maxlen3++;
-                }
-                i++;
+        for(int i=1;i<nums.size();i++){
+            if(nums[i-1]%2 != nums[i]%2){
+                maxlen3++;
             }
         }
-        //Case4
-        else if(nums[0]%2!=0){
-            bool checker=true;
-            i=1;
-            while(i<nums.size()){
-                if(checker==false && nums[i]%2!=0){
-                    checker=true;
-                    maxlen4++;
-                }
-                else if(checker==true && nums[i]%2==0){
-                    checker=false;
-                    maxlen4++;
-                }
-                i++;
-            }
-        }
-        return max(maxlen1,max(maxlen2,max(maxlen3,maxlen4)));
+        return max({maxlen1,maxlen2,maxlen3});
     }
 };
