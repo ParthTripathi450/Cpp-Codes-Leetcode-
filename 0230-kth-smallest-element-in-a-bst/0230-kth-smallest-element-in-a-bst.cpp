@@ -11,19 +11,33 @@
  */
 class Solution {
 public:
-    int kthSmallest(TreeNode* root, int k) {
-        stack<TreeNode*> st;
-        TreeNode* curr = root;
-        while(curr!=nullptr || !st.empty()){
-            while(curr != nullptr){
-                st.push(curr);
-                curr = curr->left;
-            }
-            curr = st.top();
-            st.pop();
-            if(--k == 0)return curr->val;
-            curr = curr->right;
+    int ans, count = 0;
+    void inorder(TreeNode* root, int k){
+        if(!root)return;
+        inorder(root->left,k);
+        if(++count == k){
+            ans = root->val;
+            return;
         }
-        return -1;
+        inorder(root->right,k);
     }
+    int kthSmallest(TreeNode* root, int k){
+        inorder(root,k);
+        return ans;
+    }
+    // int kthSmallest(TreeNode* root, int k) {
+    //     stack<TreeNode*> st;
+    //     TreeNode* curr = root;
+    //     while(curr!=nullptr || !st.empty()){
+    //         while(curr != nullptr){
+    //             st.push(curr);
+    //             curr = curr->left;
+    //         }
+    //         curr = st.top();
+    //         st.pop();
+    //         if(--k == 0)return curr->val;
+    //         curr = curr->right;
+    //     }
+    //     return -1;
+    // }
 };
