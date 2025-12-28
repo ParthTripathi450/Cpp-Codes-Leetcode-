@@ -11,33 +11,15 @@
  */
 class Solution {
 public:
-    void calmax(TreeNode* root, int max, int &count)
-    {
-        if (root == NULL) 
-        {
-            return;
-        }
-        if (root->val >= max) 
-        {
-            max = root->val;
-            count++;
-            cout << max << " " << count << endl;
-        }
-        calmax(root->left, max, count);
-        calmax(root->right, max, count);
+    int dfs(TreeNode* root,int mx){
+        if(!root)return 0;
+
+        int good = (root->val>=mx)? 1:0;
+        mx = max(root->val,mx);
+        
+        return good+dfs(root->left,mx) + dfs(root->right,mx);
     }
-    int goodNodes(TreeNode* root) 
-    {
-
-        if (root == NULL) 
-        {
-            return 0;
-        }
-        int count = 0;
-        int max = INT_MIN;
-
-        calmax(root, max, count);
-
-        return count;
+    int goodNodes(TreeNode* root) {
+        return dfs(root,root->val);
     }
 };
