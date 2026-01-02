@@ -1,26 +1,25 @@
 class Solution {
 public:
+    int directions[4][2] = {{1,0},{-1,0},{0,1},{0,-1}};
+
     int numIslands(vector<vector<char>>& grid) {
-        int n=grid.size();
-        int m = grid[0].size();
-        int island=0;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(grid[i][j]=='1'){
-                    dfs(i,j,grid);
-                    island++;
+        int rows = grid.size(), cols = grid[0].size();
+        int islands = 0;
+        for(int r=0;r<grid.size();r++){
+            for(int c=0;c<grid[0].size();c++){
+                if(grid[r][c] == '1'){
+                    dfs(grid,r,c);
+                    islands++;
                 }
             }
         }
-        return island;
+        return islands;
     }
-    void dfs(int i,int j,vector<vector<char>>& grid){
-        if(i<0 || j<0 || i>=grid.size() || j>=grid[0].size() || grid[i][j]!='1')return;
-        grid[i][j]='0';
-
-        dfs(i-1,j,grid);
-        dfs(i+1,j,grid);
-        dfs(i,j-1,grid);
-        dfs(i,j+1,grid);
+    void dfs(vector<vector<char>>&grid,int r,int c){
+        if(r<0 || c<0 || r>=grid.size() || c>=grid[0].size() || grid[r][c]=='0')return;
+        grid[r][c] = '0';
+        for(int i=0;i<4;i++){
+            dfs(grid,r+directions[i][0],c+directions[i][1]);
+        }
     }
 };
