@@ -1,19 +1,29 @@
 class Solution {
 public:
+    vector<vector<int>> grid;
+    vector<vector<bool>> visited;
+    int rows,cols;
+    int dfs(int i,int j){
+        if(i< 0 || j<0 || i>= rows||j>=cols || grid[i][j]==0){
+            return 1;
+        }
+        if(visited[i][j])return 0;
+        visited[i][j]= true;
+        return dfs(i-1,j)+ dfs(i,j-1)+ dfs(i+1,j)+ dfs(i,j+1);
+    }
     int islandPerimeter(vector<vector<int>>& grid) {
-        int rows = grid.size();
-        int cols = grid[0].size();
-        int perimeter=0;
-        for(int i=0;i<rows;i++){
-            for(int j=0;j<cols;j++){
+        this->grid = grid;
+        rows = grid.size();
+        cols = grid[0].size();
+        visited = vector<vector<bool>>(rows,vector<bool>(cols,false));
+
+        for(int i=0;i<grid.size();i++){
+            for(int j=0;j<grid[0].size();j++){
                 if(grid[i][j]==1){
-                    if(i==0 || grid[i-1][j]==0)perimeter++;
-                    if(i==rows-1 || grid[i+1][j]==0)perimeter++;
-                    if(j==0 || grid[i][j-1]==0)perimeter++;
-                    if(j==cols-1 || grid[i][j+1]==0)perimeter++;
+                    return dfs(i,j);
                 }
             }
         }
-        return perimeter;
+        return 0;
     }
 };
