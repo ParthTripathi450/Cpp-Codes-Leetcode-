@@ -1,37 +1,42 @@
 class Solution {
+    int rows,cols;
 public:
     void solve(vector<vector<char>>& board) {
-        if(board.empty()) return;
-
-        int m = board.size(), n = board[0].size();
-
-        for(int i=0;i<m;++i){
-            dfs(board,i,0);
-            dfs(board,i,n-1);
+        rows = board.size();
+        cols = board[0].size();
+        for(int r=0;r < rows ; r++){
+            if(board[r][0] == 'O' ){
+                capture(board,r,0);
+            }
+            if(board[r][cols-1] == 'O'){
+                capture(board,r,cols-1);
+            }
         }
-        for(int j=0;j<n;++j){
-            dfs(board,0,j);
-            dfs(board,m-1,j);
+        for(int c=0;c<cols;c++){
+            if(board[0][c] == 'O'){
+                capture(board,0,c);
+            }
+            if(board[rows-1][c] == 'O'){
+                capture(board,rows-1,c);
+            }
         }
-
-        for(int i=0;i<m;++i){
-            for(int j=0;j<n;j++){
-                if(board[i][j] == 'O'){
-                    board[i][j] = 'X';
-                }
-                else if(board[i][j] == 'T'){
-                    board[i][j] = 'O';
+        for(int r=0;r<rows;r++){
+            for(int c=0;c<cols;c++){
+                if(board[r][c] == 'O'){
+                    board[r][c] = 'X';
+                }else if(board[r][c] == 'T'){
+                    board[r][c] = 'O';
                 }
             }
         }
     }
-    void dfs(vector<vector<char>>& board,int i,int j){
-        int m = board.size(), n = board[0].size();
-        if(i<0 || j<0 || i>=m || j>=n || board[i][j] != 'O') return;
-        board[i][j] = 'T';
-        dfs(board,i+1,j);
-        dfs(board,i-1,j);
-        dfs(board,i,j+1);
-        dfs(board,i,j-1);
+private:
+    void capture(vector<vector<char>>& board,int r,int c){
+        if(r<0 || c<0 || r>= rows || c>= cols || board[r][c] != 'O')return;
+        board[r][c] = 'T';
+        capture(board,r-1,c);
+        capture(board,r+1,c);
+        capture(board,r,c-1);
+        capture(board,r,c+1);
     }
 };
