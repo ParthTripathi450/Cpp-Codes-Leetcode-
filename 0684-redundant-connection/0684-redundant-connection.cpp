@@ -2,28 +2,40 @@ class Solution {
 public:
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
         int n = edges.size();
-        vector<vector<int>> adj(n+1);
-
-        for(const auto& edge :edges){
-            int u = edge[0],v = edge[1];
-            adj[u].push_back(v);
-            adj[v].push_back(u);
-            vector<bool> visit(n+1,false);
-
-            if(dfs(u,-1,adj,visit)){
-                return {u,v};
+        vector<int> par(n+1),rank(n+1,1);
+        for(int i=0;i<=n;++i){
+            par[i] = i;
+        }
+        for(const auto& edge: edges){
+            if(!Union(par,rank,edge[0],edge[1])){
+                return vector<int>{ edge[0],edge[1] };
             }
         }
         return {};
     }
 private:
-    bool dfs(int node, int parent,vector<vector<int>>&adj, vector<bool>&visit){
-        if(visit[node]) return true;
-        visit[node] = true;
-        for(int nei:adj[node]){
-            if(nei == parent) continue;
-            if(dfs(nei,node,adj,visit)) return true;
+    int Find(vector<int>& parent,int n){
+        int p = parent[n];
+        while(p!=parent[p]){
+            parent[p] = parent[parent[p]];
+            p = parent[p];
         }
-        return false;
+        return p;
+    }
+    bool Union(vector<int>& parent,vector<int>& rank,int n1,int n2){
+        int p1 = Find(parent,n1);
+        int p2 = Find(parent,n2);
+        if(p1 == p2){
+            return false;
+        }
+        else if(rank[p1]>rank[p2]){
+            parent[p2] = p1;
+            rank[p1]+=rank[p2];
+        }
+        else{
+            parent[p1] = p2;
+            rank[p2] += rank[p1];
+        }
+        return true;
     }
 };
