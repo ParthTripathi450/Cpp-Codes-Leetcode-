@@ -1,13 +1,13 @@
 class Solution {
 public:
-    int solve(int n){
-        if(n==0) return 1;
-        else if (n==1) return 1;
-        int left = solve(n-1);
-        int right = solve(n-2);
-        return left+right;
-    }
+    vector<int> cache;
     int climbStairs(int n) {
-        return solve(n);
+        cache.resize(n,-1);
+        return dfs(n,0);
+    }
+    int dfs(int n,int i){
+        if(i>=n)return i==n;
+        if(cache[i] != -1) return cache[i];
+        return cache[i] = dfs(n,i+1) + dfs(n,i+2);
     }
 };
