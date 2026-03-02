@@ -16,6 +16,7 @@ public:
         while(temp != NULL){
             stk.push(temp->val);
             temp=temp->next;
+
         }
         temp=head;
         while(!stk.empty()){
