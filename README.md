@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0214-shortest-palindrome](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0214-shortest-palindrome/) | Hard |
 | [0224-basic-calculator](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0224-basic-calculator/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -57,4 +58,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0214-shortest-palindrome/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0214-shortest-palindrome/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0214-shortest-palindrome/) | Hard |
 <!---LeetCode Topics End-->
