@@ -7,11 +7,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0224-basic-calculator](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0224-basic-calculator/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0224-basic-calculator](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0224-basic-calculator/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -34,4 +36,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0224-basic-calculator](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0224-basic-calculator/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0224-basic-calculator](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0224-basic-calculator/) | Hard |
 <!---LeetCode Topics End-->
