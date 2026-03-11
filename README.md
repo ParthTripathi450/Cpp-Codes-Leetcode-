@@ -121,4 +121,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1980-find-unique-binary-string](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1980-find-unique-binary-string/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
