@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [2906-construct-product-matrix](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0054-spiral-matrix/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2906-construct-product-matrix](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2906-construct-product-matrix](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
