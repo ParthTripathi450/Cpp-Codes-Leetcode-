@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3474-lexicographically-smallest-generated-string](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0214-shortest-palindrome/) | Hard |
+| [3474-lexicographically-smallest-generated-string](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0044-wildcard-matching/) | Hard |
+| [3474-lexicographically-smallest-generated-string](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
