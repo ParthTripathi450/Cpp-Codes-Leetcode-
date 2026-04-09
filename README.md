@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0054-spiral-matrix/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2069-walking-robot-simulation-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2751-robot-collisions](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2751-robot-collisions/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Array
@@ -179,4 +180,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 <!---LeetCode Topics End-->
