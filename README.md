@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2751-robot-collisions](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1095-find-in-mountain-array](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1095-find-in-mountain-array/) | Hard |
+| [3488-closest-equal-element-queries](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1980-find-unique-binary-string](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
