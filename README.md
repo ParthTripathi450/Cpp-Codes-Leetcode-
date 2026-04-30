@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+| [3742-maximum-path-score-in-a-grid](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3546-equal-sum-grid-partition-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3742-maximum-path-score-in-a-grid](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-total-distance-traveled](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+| [3742-maximum-path-score-in-a-grid](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
