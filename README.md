@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0044-wildcard-matching/) | Hard |
+| [0070-climbing-stairs](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0224-basic-calculator](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0224-basic-calculator/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
@@ -199,4 +201,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2069-walking-robot-simulation-ii/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
