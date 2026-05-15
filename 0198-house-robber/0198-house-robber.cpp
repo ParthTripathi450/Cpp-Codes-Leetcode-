@@ -1,14 +1,17 @@
 class Solution {
 public:
-    vector<int> memo;
-    int rob(vector<int>& nums) {
-        memo.resize(nums.size(),-1);
-        return dfs(nums,0);
+    int func(vector<int> &nums,vector<int> &dp,int index){
+        if(index == 0)return nums[index];
+        if(index < 0)return 0;
+        if(dp[index]!=-1) return dp[index];
+        int take = nums[index]+func(nums,dp,index-2);
+        int nottake = 0 + func(nums,dp,index-1);
+        dp[index]=max(take,nottake);
+        return dp[index];
     }
-    int dfs(vector<int>& nums,int i){
-        if(i>=nums.size())return 0;
-        if(memo[i]!=-1)return memo[i];
-        memo[i] = max( dfs(nums,i+1), nums[i]+dfs(nums,i+2) );
-        return memo[i];
+    int rob(vector<int>& nums) {
+        vector<int> dp(nums.size()+1,-1);
+        dp[0] = nums[0];
+        return func(nums,dp,nums.size()-1);
     }
 };
