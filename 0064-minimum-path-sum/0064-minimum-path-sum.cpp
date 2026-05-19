@@ -10,7 +10,31 @@ public:
         return dp[m][n];
     }
     int minPathSum(vector<vector<int>>& grid) {
-        vector<vector<int>> dp(grid.size(),vector<int> (grid[0].size(),-1) );
-        return dfs(grid,0,0,dp);
+        int m = grid.size();
+        int n = grid[0].size();
+
+        vector<vector<int>> dp(m,vector<int>(n,0));
+        dp[0][0] = grid[0][0];
+        
+        //first col
+        for(int i=1;i<grid.size();i++){
+            dp[i][0] = grid[i][0] + dp[i-1][0];
+        }
+        
+        //fitst row
+        for(int j=1;j<grid[0].size();j++){
+            dp[0][j] = grid[0][j] + dp[0][j-1];
+        }
+
+
+
+        for(int i=1;i<m;i++){
+            for(int j=1;j<n;j++){
+                int left = dp[i][j-1];
+                int bottom = dp[i-1][j];
+                dp[i][j] = grid[i][j] + min(left,bottom);
+            }
+        }
+        return dp[m-1][n-1];
     }
 };
