@@ -2,24 +2,34 @@ class Solution {
 public:
     bool canPartition(vector<int>& nums) {
         int sum=0;
-        for(int num : nums){
-            sum+=num;
+        for(int x:nums){
+            sum+=x;
         }
-        if(sum%2 != 0)return false;
-        unordered_set<int> dp;
-        dp.insert(0);
+
+        if(sum%2)return false;
+
         int target = sum/2;
-        for(int i = nums.size()-1;i>=0;i--){
-            unordered_set<int> nextDP;
-            for(int t:dp){
-                if(t+nums[i] == target){
-                    return true;
-                }
-                nextDP.insert(t+nums[i]);
-                nextDP.insert(t);
-            }
-            dp = nextDP;
+        int n = nums.size();
+
+        vector<vector<bool>> dp(n+1,vector<bool>(target+1,false));
+
+        for(int i=0;i<=n;i++){
+            dp[i][0] = true;
         }
-        return false;
+
+        for(int i=n-1;i>=0;i--){
+            for(int t=1;t<=target;t++){
+
+                bool take = false;
+
+                if(nums[i]<=t){
+                    take = dp[i+1][t-nums[i]];
+                }
+
+                bool notTake = dp[i+1][t];
+                dp[i][t] = take || notTake;
+            }
+        }
+        return dp[0][target];
     }
 };
