@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1095-find-in-mountain-array/) | Hard |
+| [1340-jump-game-v](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1345-jump-game-iv/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1340-jump-game-v](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1340-jump-game-v/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1340-jump-game-v](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1340-jump-game-v/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
