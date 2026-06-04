@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0224-basic-calculator/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
