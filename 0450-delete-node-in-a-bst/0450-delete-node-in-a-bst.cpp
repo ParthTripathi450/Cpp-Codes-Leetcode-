@@ -1,5 +1,5 @@
 /**
- * Definition for a binary tree root.
+ * Definition for a binary tree node.
  * struct TreeNode {
  *     int val;
  *     TreeNode *left;
@@ -11,26 +11,36 @@
  */
 class Solution {
 public:
-    TreeNode* minValue(TreeNode* root){
-        while(root->left){
-            root = root->left;
+    TreeNode* findMax(TreeNode* root){
+        while(root->right){
+            root = root->right;
         }
         return root;
     }
     TreeNode* deleteNode(TreeNode* root, int key) {
         if(!root)return nullptr;
-        if(key<root->val){
+        if(key < root->val){
             root->left = deleteNode(root->left,key);
         }
         else if(key > root->val){
             root->right = deleteNode(root->right,key);
-        }else{
-            if(!root->left)return root->right;
-            if(!root->right)return root->left;
+        }
+        else{
+            if(!root->left){
+                TreeNode* temp = root->right;
+                delete root;
+                return temp;
+            }
 
-            TreeNode* successor = minValue(root->right);
-            root->val = successor->val;
-            root->right = deleteNode(root->right,successor->val);
+            if(!root->right){
+                TreeNode* temp = root->left;
+                delete root;
+                return temp;
+            }
+
+            TreeNode* pred = findMax(root->left);
+            root->val = pred->val;
+            root->left = deleteNode(root->left,pred->val);
         }
         return root;
     }
