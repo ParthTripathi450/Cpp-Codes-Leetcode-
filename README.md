@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1340-jump-game-v/) | Hard |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -137,12 +138,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -294,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
