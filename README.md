@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -282,12 +284,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
