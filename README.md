@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1345-jump-game-iv](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1345-jump-game-iv/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2540-minimum-common-value/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -311,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
