@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+| [3689-maximum-total-subarray-value-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0044-wildcard-matching/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3689-maximum-total-subarray-value-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
