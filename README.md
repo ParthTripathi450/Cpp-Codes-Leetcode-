@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0518-coin-change-ii/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0733-flood-fill](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0994-rotting-oranges/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1340-jump-game-v](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1345-jump-game-iv/) | Hard |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0733-flood-fill](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0994-rotting-oranges/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2906-construct-product-matrix](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2906-construct-product-matrix/) | Medium |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0322-coin-change/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0994-rotting-oranges/) | Medium |
 | [1345-jump-game-iv](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1345-jump-game-iv/) | Hard |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 ## Graph Theory
