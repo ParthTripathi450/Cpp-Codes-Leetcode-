@@ -2,28 +2,35 @@ class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         vector<vector<int>> graph(numCourses);
-        for(auto& pre : prerequisites){
-            graph[pre[1]].push_back(pre[0]);
-        }
-        vector<int> state(numCourses, 0);
+        vector<int> indegree(numCourses,0);
 
-        for(int i=0; i<numCourses; ++i){
-            if(hasCycle(graph,state, i)){
-                return false;
+        for(auto &p: prerequisites){
+            int course = p[0];
+            int prereq = p[1];
+
+            graph[prereq].push_back(course);
+            indegree[course]++;
+        }
+
+        queue<int> q;
+
+        for(int i=0;i<numCourses; i++){
+            if(indegree[i] == 0)q.push(i);
+        }
+
+        int completed = 0;
+
+        while(!q.empty()){
+            int curr = q.front();
+            q.pop();
+
+            completed++;
+            for(int next:graph[curr]){
+                indegree[next]--;
+
+                if(indegree[next] == 0)q.push(next);
             }
         }
-        return true;
-    }
-    bool hasCycle(vector<vector<int>>& graph, vector<int>& state, int node){
-        if(state[node] == 1)return true;
-        if(state[node] == 2)return false;
-
-        state[node] = 1;
-
-        for(int neighbor : graph[node]){
-            if(hasCycle(graph, state, neighbor)) return true;
-        }
-        state[node] = 2;
-        return false;
+        return completed == numCourses;
     }
 };
