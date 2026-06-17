@@ -1,42 +1,37 @@
 class Solution {
-    int rows,cols;
 public:
-    void solve(vector<vector<char>>& board) {
-        rows = board.size();
-        cols = board[0].size();
-        for(int r=0;r < rows ; r++){
-            if(board[r][0] == 'O' ){
-                capture(board,r,0);
-            }
-            if(board[r][cols-1] == 'O'){
-                capture(board,r,cols-1);
-            }
-        }
-        for(int c=0;c<cols;c++){
-            if(board[0][c] == 'O'){
-                capture(board,0,c);
-            }
-            if(board[rows-1][c] == 'O'){
-                capture(board,rows-1,c);
-            }
-        }
-        for(int r=0;r<rows;r++){
-            for(int c=0;c<cols;c++){
-                if(board[r][c] == 'O'){
-                    board[r][c] = 'X';
-                }else if(board[r][c] == 'T'){
-                    board[r][c] = 'O';
-                }
-            }
-        }
+    void dfs(int r,int c,vector<vector<char>>& board){
+        int m = board.size();
+        int n = board[0].size();
+
+        if(r<0 || r>=m || c<0 || c>=n || board[r][c] != 'O')return;
+
+        board[r][c] = '#';
+
+        dfs(r+1,c,board);
+        dfs(r-1,c,board);
+        dfs(r,c+1,board);
+        dfs(r,c-1,board);
     }
-private:
-    void capture(vector<vector<char>>& board,int r,int c){
-        if(r<0 || c<0 || r>= rows || c>= cols || board[r][c] != 'O')return;
-        board[r][c] = 'T';
-        capture(board,r-1,c);
-        capture(board,r+1,c);
-        capture(board,r,c-1);
-        capture(board,r,c+1);
+    void solve(vector<vector<char>>& board) {
+        int m = board.size();
+        int n = board[0].size();
+        //First column
+        for(int i=0;i<m;i++){
+            if(board[i][0] == 'O')dfs(i,0,board);
+            if(board[i][n-1] == 'O')dfs(i,n-1,board);
+        }
+
+        for(int j=0;j<n;j++){
+            if(board[0][j] == 'O')dfs(0,j,board);
+            if(board[m-1][j] == 'O')dfs(m-1,j,board);
+        }
+
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(board[i][j] == 'O')board[i][j] = 'X';
+                else if(board[i][j] == '#') board[i][j] = 'O';
+            }
+        }
     }
 };
