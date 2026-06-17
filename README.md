@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0044-wildcard-matching/) | Hard |
+| [0127-word-ladder](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0127-word-ladder/) | Hard |
 | [0214-shortest-palindrome](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0214-shortest-palindrome/) | Hard |
 | [0224-basic-calculator](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0224-basic-calculator/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0322-coin-change/) | Medium |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0127-word-ladder](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0127-word-ladder/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1345-jump-game-iv](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1345-jump-game-iv/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1980-find-unique-binary-string/) | Medium |
