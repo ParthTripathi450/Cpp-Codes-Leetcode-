@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0518-coin-change-ii/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1340-jump-game-v/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1020-number-of-enclaves](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0994-rotting-oranges](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -209,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0207-course-schedule/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
@@ -237,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
@@ -388,4 +393,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
