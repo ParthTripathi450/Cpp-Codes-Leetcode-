@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0054-spiral-matrix/) | Medium |
+| [0057-insert-interval](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0120-triangle](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0120-triangle/) | Medium |
