@@ -1,17 +1,13 @@
 class Solution {
 public:
-    int func(int n,vector<int>& dp){
-        if(n<0)return 0;
-        if(dp[n]!=-1)return dp[n];
-        else{
-            if(n==0)return 1;
-            dp[n] = func(n-1,dp)+func(n-2,dp);
-            return dp[n];
-        }
+    vector<int> cache;
+    int dfs(int n,int i){
+        if(i>=n)return i == n;
+        if(cache[i]!= -1)return cache[i];
+        return cache[i] = dfs(n,i+1) + dfs(n,i+2); 
     }
     int climbStairs(int n) {
-        vector<int> dp(n+1,-1);
-        dp[0] = 1;
-        return func(n,dp);
+        cache.resize(n,-1);
+        return dfs(n,0);
     }
 };
