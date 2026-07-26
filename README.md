@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0120-triangle](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0120-triangle/) | Medium |
 | [0130-surrounded-regions](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0130-surrounded-regions/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0322-coin-change/) | Medium |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0120-triangle](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0120-triangle/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0416-partition-equal-subset-sum/) | Medium |
