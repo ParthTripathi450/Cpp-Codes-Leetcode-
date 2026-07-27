@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0044-wildcard-matching/) | Hard |
 | [0127-word-ladder](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0127-word-ladder/) | Hard |
+| [0139-word-break](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0139-word-break/) | Medium |
 | [0214-shortest-palindrome](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0214-shortest-palindrome/) | Hard |
 | [0224-basic-calculator](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0224-basic-calculator/) | Hard |
 | [0647-palindromic-substrings](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0647-palindromic-substrings/) | Medium |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0120-triangle](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0120-triangle/) | Medium |
 | [0130-surrounded-regions](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0130-surrounded-regions/) | Medium |
+| [0139-word-break](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0200-number-of-islands/) | Medium |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0120-triangle](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0120-triangle/) | Medium |
+| [0139-word-break](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0322-coin-change/) | Medium |
@@ -295,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0127-word-ladder](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0127-word-ladder/) | Hard |
+| [0139-word-break](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0139-word-break/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1345-jump-game-iv](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1345-jump-game-iv/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -345,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0139-word-break/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -420,4 +425,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
