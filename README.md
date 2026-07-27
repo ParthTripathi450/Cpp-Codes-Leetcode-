@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0127-word-ladder/) | Hard |
 | [0214-shortest-palindrome](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0214-shortest-palindrome/) | Hard |
 | [0224-basic-calculator](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0224-basic-calculator/) | Hard |
+| [0647-palindromic-substrings](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0647-palindromic-substrings/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0518-coin-change-ii/) | Medium |
+| [0647-palindromic-substrings](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0647-palindromic-substrings/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0647-palindromic-substrings](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0647-palindromic-substrings/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
