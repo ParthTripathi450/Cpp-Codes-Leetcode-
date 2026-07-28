@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0214-shortest-palindrome](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0214-shortest-palindrome/) | Hard |
 | [0224-basic-calculator](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0224-basic-calculator/) | Hard |
 | [0647-palindromic-substrings](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0647-palindromic-substrings/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0647-palindromic-substrings/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1340-jump-game-v/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
