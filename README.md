@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0518-coin-change-ii/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0733-flood-fill](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0994-rotting-oranges/) | Medium |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0224-basic-calculator](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0224-basic-calculator/) | Hard |
+| [0628-maximum-product-of-three-numbers](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1340-jump-game-v](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1340-jump-game-v/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
