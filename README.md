@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0055-jump-game/) | Medium |
 | [0057-insert-interval](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0064-minimum-path-sum/) | Medium |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0010-regular-expression-matching/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0044-wildcard-matching/) | Hard |
+| [0055-jump-game](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0064-minimum-path-sum/) | Medium |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0044-wildcard-matching/) | Hard |
+| [0055-jump-game](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0055-jump-game/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
