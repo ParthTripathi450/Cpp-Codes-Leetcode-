@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2906-construct-product-matrix](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1344-angle-between-hands-of-a-clock](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -337,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
