@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0039-combination-sum/) | Medium |
 | [0054-spiral-matrix](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0055-jump-game/) | Medium |
 | [0057-insert-interval](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0057-insert-interval/) | Medium |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0039-combination-sum/) | Medium |
 | [0494-target-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0494-target-sum/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Bit Manipulation
