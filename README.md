@@ -461,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0584-find-customer-referee](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0595-big-countries/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
