@@ -467,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1251-average-selling-price](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1251-average-selling-price/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| [1729-find-followers-count](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
