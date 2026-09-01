@@ -462,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0595-big-countries](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0595-big-countries/) | Easy |
 | [0620-not-boring-movies](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1070-product-sales-analysis-iii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1251-average-selling-price](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1251-average-selling-price/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
