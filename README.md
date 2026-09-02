@@ -476,5 +476,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1789-primary-department-for-each-employee/) | Easy |
+| [1907-count-salary-categories](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1907-count-salary-categories/) | Medium |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
