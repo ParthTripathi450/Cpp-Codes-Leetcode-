@@ -469,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1148-article-views-i/) | Easy |
 | [1164-product-price-at-a-given-date](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1164-product-price-at-a-given-date/) | Medium |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1251-average-selling-price](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1251-average-selling-price/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1729-find-followers-count](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1729-find-followers-count/) | Easy |
