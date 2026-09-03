@@ -1,20 +1,23 @@
 class Solution {
 public:
-    bool wordBreak(string s, vector<string>& wordDict) {
-        vector<bool> dp(s.size()+1,false);
-        dp[s.size()] = true;
+    unordered_map <int, bool> memo;
+    bool dfs(string& s,vector<string>& wordDict,int i){
+        if(memo.find(i) != memo.end())return memo[i];
+        if ( i == s.length())return true;
+        for(const string& w:wordDict){
+            if(i + w.length() <= s.length() && s.substr(i,w.length()) == w){
 
-        for(int i = s.size()-1;i>=0;i--){
-            for(const auto &word: wordDict){
-                if((i+word.length()<=s.length()) &&
-                s.substr(i,word.length()) == word){
-                    dp[i] = dp[i + word.length()];
-                }
-                if(dp[i]){
-                    break;
-                }
+                    if(dfs(s,wordDict,i+w.length())){
+                        memo[i] = true;
+                        return memo[i];
+                    }
             }
         }
-        return dp[0];
+        memo[i] = false;
+        return memo[i];
+    }
+    bool wordBreak(string s, vector<string>& wordDict) {
+        memo[s.length()] = true;
+        return dfs(s,wordDict,0);
     }
 };
