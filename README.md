@@ -476,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1327-list-the-products-ordered-in-a-period](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1341-movie-rating](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1341-movie-rating/) | Medium |
 | [1484-group-sold-products-by-the-date](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1484-group-sold-products-by-the-date/) | Easy |
+| [1517-find-users-with-valid-e-mails](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1667-fix-names-in-a-table/) | Easy |
