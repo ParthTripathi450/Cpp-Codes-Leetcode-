@@ -488,4 +488,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1907-count-salary-categories](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1907-count-salary-categories/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
