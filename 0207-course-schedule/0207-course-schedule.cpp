@@ -1,36 +1,28 @@
 class Solution {
+    unordered_map<int,vector<int>> preMap;
+    unordered_set<int> visiting;
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> graph(numCourses);
-        vector<int> indegree(numCourses,0);
-
-        for(auto &p: prerequisites){
-            int course = p[0];
-            int prereq = p[1];
-
-            graph[prereq].push_back(course);
-            indegree[course]++;
+        for(int i=0;i<numCourses;i++){
+            preMap[i] = {};
         }
-
-        queue<int> q;
-
-        for(int i=0;i<numCourses; i++){
-            if(indegree[i] == 0)q.push(i);
+        for(const auto& prereq : prerequisites ){
+            preMap[prereq[0]].push_back(prereq[1]);
         }
-
-        int completed = 0;
-
-        while(!q.empty()){
-            int curr = q.front();
-            q.pop();
-
-            completed++;
-            for(int next:graph[curr]){
-                indegree[next]--;
-
-                if(indegree[next] == 0)q.push(next);
-            }
+        for(int c=0;c<numCourses;c++){
+            if(!dfs(c))return false;
         }
-        return completed == numCourses;
+        return true;
+    }
+    bool dfs(int crs){
+        if(visiting.count(crs))return false;
+        if(preMap[crs].empty())return true;
+        visiting.insert(crs);
+        for(int pre : preMap[crs]){
+            if(!dfs(pre))return false;
+        }
+        visiting.erase(crs);
+        preMap[crs].clear();
+        return true;
     }
 };
