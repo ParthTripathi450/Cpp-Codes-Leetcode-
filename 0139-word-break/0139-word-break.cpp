@@ -1,23 +1,39 @@
 class Solution {
 public:
-    unordered_map <int, bool> memo;
-    bool dfs(string& s,vector<string>& wordDict,int i){
-        if(memo.find(i) != memo.end())return memo[i];
-        if ( i == s.length())return true;
-        for(const string& w:wordDict){
-            if(i + w.length() <= s.length() && s.substr(i,w.length()) == w){
+    // bool wordBreak(string s, vector<string>& wordDict) {
+    //     int i=0;
+    //     while(i<s.size()){
+    //         for(const string& word:wordDict){
+    //             if(i+word.length()<=s.size() &&
+    //             s.substr(i,i+word.length()) == word){
+    //                     i+=word.length();
+    //             }
+    //             else{
+    //                 return false;
+    //             }
+    //         }
+    //     }
+    //     return true;
+    // }
 
-                    if(dfs(s,wordDict,i+w.length())){
-                        memo[i] = true;
-                        return memo[i];
-                    }
+    unordered_map<int,bool> memo;
+
+    bool dfs(string s,vector<string>& wordDict,int i){
+        if(memo.find(i) != memo.end())return memo[i];
+        if(i == s.size())return true;
+        for(const string &word:wordDict){
+            if(i+word.length()<=s.size() &&
+            s.substr(i,word.length()) == word){
+                if(dfs(s,wordDict,i+word.length())){
+                    memo[i] = true;
+                    return memo[i];
+                }
             }
         }
         memo[i] = false;
         return memo[i];
     }
-    bool wordBreak(string s, vector<string>& wordDict) {
-        memo[s.length()] = true;
+    bool wordBreak(string s, vector<string>& wordDict){
         return dfs(s,wordDict,0);
     }
 };
