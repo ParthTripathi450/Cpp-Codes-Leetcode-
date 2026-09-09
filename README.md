@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0044-wildcard-matching/) | Hard |
+| [0091-decode-ways](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0091-decode-ways/) | Medium |
 | [0127-word-ladder](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0127-word-ladder/) | Hard |
 | [0139-word-break](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0139-word-break/) | Medium |
 | [0214-shortest-palindrome](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0214-shortest-palindrome/) | Hard |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
+| [0091-decode-ways](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0091-decode-ways/) | Medium |
 | [0120-triangle](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0120-triangle/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0139-word-break/) | Medium |
