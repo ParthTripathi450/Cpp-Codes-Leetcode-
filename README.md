@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0039-combination-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0039-combination-sum/) | Medium |
 | [0054-spiral-matrix](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0055-jump-game/) | Medium |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0127-word-ladder](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0127-word-ladder/) | Hard |
 | [0139-word-break](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0139-word-break/) | Medium |
