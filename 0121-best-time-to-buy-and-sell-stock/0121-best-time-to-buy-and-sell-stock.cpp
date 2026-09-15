@@ -1,17 +1,15 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int l=0,r=1,crnprofit=0,profit=0;
-        while(r<prices.size()){
-            if(prices[r]>prices[l]){
-                crnprofit=prices[r]-prices[l];
-                profit=max(profit,crnprofit);
-            }
-            else if(prices[l]>prices[r]){
-                l=r;
-            }
-            r+=1;
+        if(prices.size() == 1) return 0; 
+        int mini = prices[0];
+        int ans=INT_MIN;
+        int cost;
+        for(int i=1;i<prices.size();i++){
+            mini = min(mini,prices[i]);
+            if(cost <prices[i] - mini)cost = prices[i] - mini;
+            cout<<cost<<" ";
         }
-        return profit;
+        return cost;
     }
 };
