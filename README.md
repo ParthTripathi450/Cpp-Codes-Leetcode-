@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0001-two-sum/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0039-combination-sum/) | Medium |
 | [0054-spiral-matrix](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0055-jump-game/) | Medium |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0704-binary-search/) | Easy |
 | [1095-find-in-mountain-array](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1095-find-in-mountain-array/) | Hard |
