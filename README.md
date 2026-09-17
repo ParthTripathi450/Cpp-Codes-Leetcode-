@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0437-path-sum-iii/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0743-network-delay-time/) | Medium |
@@ -447,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -559,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0543-diameter-of-binary-tree](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
