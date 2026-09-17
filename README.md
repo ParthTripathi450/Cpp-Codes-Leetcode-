@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0130-surrounded-regions/) | Medium |
 | [0139-word-break](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0213-house-robber-ii/) | Medium |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0704-binary-search/) | Easy |
 | [1095-find-in-mountain-array](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1095-find-in-mountain-array/) | Hard |
