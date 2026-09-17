@@ -1,26 +1,24 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
-        int l=0,r=nums.size()-1;
-        while(l<=r){
-            int m=(l+r)/2;
-            if(nums[m]==target) return m;
-            //left sorted
-            if(nums[l]<=nums[m]){
-                if(nums[l]<=target && nums[m]>=target){
-                    r=m-1;
-                }
-                else{
-                    l=m+1;
+        int low = 0;
+        int high = nums.size()-1;
+        int mid;
+        while(low<=high){
+            mid = (low+high)/2;
+            if(nums[mid] == target)return mid;
+            if(nums[low]<=nums[mid]){
+                if(nums[low]<=target && target<=nums[mid]){
+                    high = mid-1;
+                }else{
+                    low = mid+1;
                 }
             }
-            //right sorted
             else{
-                if(nums[m]<=target && nums[r]>=target){
-                    l=m+1;
-                }
-                else{
-                    r=m-1;
+                if(nums[mid]<=target && target<=nums[high]){
+                    low = mid+1;
+                }else{
+                    high = mid-1;
                 }
             }
         }
