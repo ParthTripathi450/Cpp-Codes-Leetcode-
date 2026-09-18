@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0322-coin-change/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0518-coin-change-ii/) | Medium |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1340-jump-game-v](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1340-jump-game-v/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -355,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0127-word-ladder](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0127-word-ladder/) | Hard |
 | [0139-word-break](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0139-word-break/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1345-jump-game-iv](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1345-jump-game-iv/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -399,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Design
@@ -496,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -583,4 +589,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
