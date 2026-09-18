@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0213-house-robber-ii/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1340-jump-game-v](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1340-jump-game-v/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -303,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0743-network-delay-time](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -395,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Design
@@ -575,4 +579,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
