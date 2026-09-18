@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0733-flood-fill/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
