@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0743-network-delay-time/) | Medium |
@@ -402,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -491,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -594,4 +597,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
