@@ -10,34 +10,30 @@
  */
 class Solution {
 public:
-
-    ListNode* mergeTwoLists(ListNode* l1,ListNode* l2){
-        ListNode dummy(0);
-        ListNode* tail = &dummy;
-        while(l1 && l2){
-            if(l1->val<=l2->val){
-                tail->next = l1;
-                l1 = l1->next;
-            }else{
-                tail->next = l2;
-                l2 = l2->next;
-            }
-            tail = tail->next;
-        }
-        tail->next = l1 ? l1:l2;
-        return dummy.next; 
-
-    }
-    ListNode* mergeList(vector<ListNode*>& lists,int left, int right){
-        if(left>right)return nullptr;
-        if(left==right)return lists[left];
-        int mid = (left+right)/2;
-        ListNode* l1 = mergeList(lists,left,mid);
-        ListNode* l2 = mergeList(lists,mid+1,right);
-        return mergeTwoLists(l1,l2);
-    }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if(lists.empty())return nullptr;
-        return mergeList(lists,0,lists.size()-1);
+        priority_queue<pair<int,ListNode*>,
+        vector<pair<int,ListNode*>>,
+        greater<pair<int,ListNode*>>> pq;
+        for(int i=0;i<lists.size();i++){
+            if(lists[i])pq.push({lists[i]->val,lists[i]});
+        }
+
+        ListNode* dummy = new ListNode(0);
+        ListNode* cur = dummy;
+
+        while(!pq.empty()){
+            auto[val,node] = pq.top();
+            pq.pop();
+
+            cur->next = node;
+            cur= cur->next;
+
+            if(node->next){
+                pq.push({node->next->val,node->next});
+            }  
+        }
+        return dummy->next;
+
+
     }
 };
