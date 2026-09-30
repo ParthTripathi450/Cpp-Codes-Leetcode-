@@ -529,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0176-second-highest-salary](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0176-second-highest-salary/) | Medium |
 | [0180-consecutive-numbers](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0180-consecutive-numbers/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0197-rising-temperature](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0197-rising-temperature/) | Easy |
 | [0584-find-customer-referee](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0584-find-customer-referee/) | Easy |
 | [0585-investments-in-2016](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0585-investments-in-2016/) | Medium |
 | [0595-big-countries](https://github.com/ParthTripathi450/Cpp-Codes-Leetcode-/tree/main/0595-big-countries/) | Easy |
